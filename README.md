@@ -16,6 +16,5 @@ By the end of this tutorial, you'll have a dataset of dandelions and grass!
 Click the above badge to access the Jupyter notebook, and follow the directions there. The JupyterHub environment is hosted on [Binder](https://mybinder.org/). Binder turns your git repo of notebooks into a hosted JupyterHub environment online, making your code repoducible anyone, anywhere. 
 
 <br>
-
 ## Inspiration
 Most of this tutorial is based off of [Lesson 2](https://course.fast.ai/videos/?lesson=2) of the FastAI *Practical Deep Learning for Coders* course. Special thanks to [FastAI](https://www.fast.ai/) and Jeremy Howard and Rachel Thomas for the amazing library and course!
