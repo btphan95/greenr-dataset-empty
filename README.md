@@ -13,7 +13,7 @@ By the end of this tutorial, you'll have a dataset of dandelions and grass!
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/btphan95/greenr-dataset-empty/3734a89)
 
 
-Click the above badge to access the Jupyter notebook, and follow the directions there. The JupyterHub environment is hosted on [Binder](https://mybinder.org/). Binder turns your git repo of notebooks into a hosted JupyterHub environment online, making your code repoducible anyone, anywhere. 
+Click the above badge to access the JupyterHub environment, open the notebook `create-dataset.ipynb`, and follow the directions there. The JupyterHub environment is hosted on [Binder](https://mybinder.org/). Binder turns your git repo of notebooks into a hosted JupyterHub environment online, making your code repoducible anyone, anywhere. 
 
 <br>
 ## Inspiration
